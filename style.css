@@ -1,0 +1,18 @@
+
+ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type:none;
+}
+
+li{
+    float: left;
+}
+li a{
+    background-color: gray;
+    width: 100%;
+    color: white;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+}
